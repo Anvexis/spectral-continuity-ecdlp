@@ -355,7 +355,7 @@ spectral/
 # Installation
 
 ```bash
-git clone https://github.com/yourname/spectral-continuity-secp256k1.git
+git clone [https://github.com/yourname/spectral-continuity-secp256k1.git](https://github.com/Anvexis/spectral-continuity-ecdlp)
 
 cd spectral-continuity-secp256k1
 
